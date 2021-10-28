@@ -1,0 +1,17 @@
+
+.blog-footer {
+  padding: 1rem 0;
+  color: white;
+  background-color: var(--main-color);
+  text-align: center;
+  border-top: .05rem solid black;
+}
+
+.blog-footer p, .blog-footer a {
+  color: white;
+}
+
+.blog-footer p:last-child {
+  color: white;
+  margin-bottom: 0;
+}
